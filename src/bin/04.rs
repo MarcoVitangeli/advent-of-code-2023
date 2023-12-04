@@ -1,5 +1,3 @@
-use std::collections::{HashMap, HashSet};
-
 advent_of_code::solution!(4);
 
 fn map_line(line: &str) -> Vec<u32> {
