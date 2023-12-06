@@ -9,7 +9,6 @@ fn map_tuple(t: (u64,u64)) -> u64 {
             c += 1;
         }
     }
-    println!("{c}");
     c
 }
 
